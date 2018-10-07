@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">酷欧天气-学习版本</string>
+    
+    <string name="forecast">预报</string>
+    <string name="aqi">空气质量</string>
+    <string name="aqiIndex">AQI指数</string>
+    <string name="pm2.5">PM2.5指数</string>
+    <string name="live_advice">生活建议</string>
+
+    <string name="bing_pic_img">每日bing图</string>
+</resources>
